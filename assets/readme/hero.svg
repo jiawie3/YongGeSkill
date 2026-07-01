@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">勇哥餐饮问诊 Skill 宣传横幅</title>
+  <desc id="desc">一个基于 504 条公开案例蒸馏的餐饮开店、亏损门店、加盟和选址问诊 Skill。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101820"/>
+      <stop offset="0.56" stop-color="#163832"/>
+      <stop offset="1" stop-color="#f2aa4c"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.98"/>
+      <stop offset="1" stop-color="#eef7f2" stop-opacity="0.95"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#08110f" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <path d="M0 510 C180 430 275 620 455 540 C628 463 716 476 850 531 C1015 599 1139 495 1280 440 L1280 640 L0 640 Z" fill="#ffffff" opacity="0.13"/>
+  <path d="M0 72 L1280 24 L1280 0 L0 0 Z" fill="#ffffff" opacity="0.09"/>
+
+  <g transform="translate(72 76)">
+    <text x="0" y="38" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="28" font-weight="700" fill="#f8d98d">YongGe Catering Skill</text>
+    <text x="0" y="118" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="62" font-weight="800" fill="#ffffff">餐饮别凭感觉干</text>
+    <text x="0" y="190" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="62" font-weight="800" fill="#ffffff">先把账算清楚</text>
+    <text x="0" y="252" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="28" fill="#eaf7f2">基于 504 条公开视频案例蒸馏的餐饮问诊系统</text>
+
+    <g transform="translate(0 314)">
+      <rect width="162" height="48" rx="8" fill="#f2aa4c"/>
+      <text x="81" y="31" text-anchor="middle" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="19" font-weight="700" fill="#162018">亏损门店</text>
+      <rect x="178" width="162" height="48" rx="8" fill="#ffffff" opacity="0.94"/>
+      <text x="259" y="31" text-anchor="middle" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="19" font-weight="700" fill="#162018">加盟避坑</text>
+      <rect x="356" width="162" height="48" rx="8" fill="#ffffff" opacity="0.94"/>
+      <text x="437" y="31" text-anchor="middle" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="19" font-weight="700" fill="#162018">选址识别</text>
+      <rect x="534" width="162" height="48" rx="8" fill="#ffffff" opacity="0.94"/>
+      <text x="615" y="31" text-anchor="middle" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="19" font-weight="700" fill="#162018">接盘止损</text>
+    </g>
+  </g>
+
+  <g transform="translate(770 88)" filter="url(#shadow)">
+    <rect width="430" height="452" rx="24" fill="url(#panel)"/>
+    <text x="32" y="58" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="25" font-weight="800" fill="#163832">问诊输出</text>
+    <g transform="translate(32 92)">
+      <rect width="366" height="56" rx="10" fill="#173b35"/>
+      <text x="20" y="36" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="21" font-weight="700" fill="#ffffff">先别急着救，先补关键数</text>
+      <rect y="76" width="366" height="56" rx="10" fill="#eef5ef"/>
+      <text x="20" y="112" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="21" font-weight="700" fill="#173b35">日保本流水：1,879</text>
+      <rect y="152" width="366" height="56" rx="10" fill="#fff4de"/>
+      <text x="20" y="188" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="21" font-weight="700" fill="#724000">现金还能撑：2.7 个月</text>
+      <rect y="228" width="366" height="88" rx="10" fill="#f7f7f2"/>
+      <text x="20" y="264" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="21" font-weight="700" fill="#173b35">问题不在努力</text>
+      <text x="20" y="296" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="21" font-weight="700" fill="#173b35">是成本结构没跑通</text>
+    </g>
+    <line x1="32" y1="390" x2="398" y2="390" stroke="#d9e5dd" stroke-width="2"/>
+    <text x="32" y="425" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="19" fill="#52645d">504 reviewed cases · break-even · site check</text>
+  </g>
+</svg>

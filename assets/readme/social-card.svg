@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-labelledby="title desc">
+  <title id="title">勇哥餐饮问诊 Skill 社媒竖版海报</title>
+  <desc id="desc">适合抖音、小红书、X 等社媒平台传播的项目宣传图。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#10221e"/>
+      <stop offset="0.58" stop-color="#173b35"/>
+      <stop offset="1" stop-color="#f2aa4c"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#08110f" flood-opacity="0.32"/>
+    </filter>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <path d="M0 1030 C190 930 270 1210 510 1080 C730 960 860 1015 1080 900 L1080 1350 L0 1350 Z" fill="#ffffff" opacity="0.14"/>
+  <g transform="translate(82 92)">
+    <text x="0" y="44" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="32" font-weight="800" fill="#f8d98d">YongGe Catering Skill</text>
+    <text x="0" y="154" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="74" font-weight="900" fill="#ffffff">你的店</text>
+    <text x="0" y="244" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="74" font-weight="900" fill="#ffffff">到底该不该救？</text>
+    <text x="0" y="310" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="31" fill="#eaf7f2">把餐饮连麦问诊做成 AI Skill</text>
+  </g>
+
+  <g transform="translate(82 462)" filter="url(#shadow)">
+    <rect width="916" height="448" rx="28" fill="#ffffff"/>
+    <text x="48" y="70" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="34" font-weight="900" fill="#173b35">它会先问你这些，而不是先劝你投流</text>
+    <g font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="28" font-weight="700" fill="#173b35">
+      <text x="58" y="140">租金多少？人工多少？</text>
+      <text x="58" y="204">日流水多少？毛利率多少？</text>
+      <text x="58" y="268">加盟主体是谁？钱打给谁？</text>
+      <text x="58" y="332">门口人流是真经过，还是只在对面？</text>
+      <text x="58" y="396">继续干，是修复，还是扩大亏损？</text>
+    </g>
+  </g>
+
+  <g transform="translate(82 970)">
+    <rect width="212" height="92" rx="14" fill="#ffffff" opacity="0.95"/>
+    <text x="106" y="37" text-anchor="middle" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="24" font-weight="900" fill="#173b35">504 案例</text>
+    <text x="106" y="68" text-anchor="middle" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="18" fill="#52645d">公开视频蒸馏</text>
+
+    <rect x="238" width="212" height="92" rx="14" fill="#ffffff" opacity="0.95"/>
+    <text x="344" y="37" text-anchor="middle" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="24" font-weight="900" fill="#173b35">算保本</text>
+    <text x="344" y="68" text-anchor="middle" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="18" fill="#52645d">租金人工毛利</text>
+
+    <rect x="476" width="212" height="92" rx="14" fill="#ffffff" opacity="0.95"/>
+    <text x="582" y="37" text-anchor="middle" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="24" font-weight="900" fill="#173b35">查加盟</text>
+    <text x="582" y="68" text-anchor="middle" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="18" fill="#52645d">主体资质风险</text>
+
+    <rect x="714" width="202" height="92" rx="14" fill="#ffffff" opacity="0.95"/>
+    <text x="815" y="37" text-anchor="middle" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="24" font-weight="900" fill="#173b35">看位置</text>
+    <text x="815" y="68" text-anchor="middle" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="18" fill="#52645d">照片地图截图</text>
+  </g>
+
+  <text x="82" y="1182" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="31" font-weight="800" fill="#ffffff">开源地址：github.com/jiawie3/YongGeSkill</text>
+  <text x="82" y="1232" font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="24" fill="#fff8e8">非官方项目 · 公开视频方法蒸馏 · 不保证盈利或退款</text>
+</svg>
