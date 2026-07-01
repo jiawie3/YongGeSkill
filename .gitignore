@@ -1,0 +1,20 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Raw/media caches and rebuild artifacts are not required for using the skill.
+corpus/audio/
+corpus/transcripts/
+corpus/case-notes/
+
+# Runtime logs, prompts, and process markers.
+corpus/*.log
+corpus/*.out
+corpus/*.pid
+corpus/*.jsonl
+corpus/review-prompts/
+corpus/review-last-messages/
+
+# Local environments.
+.venv/
+venv/

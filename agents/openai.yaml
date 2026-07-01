@@ -1,0 +1,7 @@
+interface:
+  display_name: "勇哥餐饮问诊"
+  short_description: "按勇哥连麦方法诊断餐饮开店风险和亏损门店"
+  default_prompt: "使用 $yongge-catering-skill 帮我按勇哥餐饮问诊逻辑分析餐饮开店、亏损门店、加盟品牌、接盘转让、选址照片或地图截图，判断该开、该救、该转还是该止损。"
+
+policy:
+  allow_implicit_invocation: true
